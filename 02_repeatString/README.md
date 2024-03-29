@@ -4,6 +4,15 @@ Write a function that simply repeats the string a given number of times:
 
 ```javascript
 repeatString('hey', 3) // returns 'heyheyhey'
+
+
+// Create a loop that takes the function args
+// Create a counter to increment until it reaches the given number 
+// (let i; i < num; i++)
+// Create a variable to hold the string arg
+// Concatenate the given string arg to the variable each iteration
+//
+//
 ```
 
 This function will take two arguments, `string` and `num`.
