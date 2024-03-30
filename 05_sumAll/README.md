@@ -5,7 +5,11 @@ Implement a function that takes 2 integers and returns the sum of every number b
 ```javascript
 sumAll(1, 4) // returns the sum of 1 + 2 + 3 + 4 which is 10
 ```
-
+    Create a for loop
+    While n1 < n2
+    Add +1 do n1
+    Add the current n1 to a variable
+    When loop is finished, return the variable
 
 ## Hints
 
